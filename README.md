@@ -1,6 +1,8 @@
 # Naruto Quotes Client
 Naruto quotes generator client for DIO lesson.
 
+Quotes are provided from another project, which is a server that returns random Naruto Quotes. You'll need to install it in order for this project to work. You can check it on [Celso Henrique's GitHub](https://github.com/celso-henrique/naruto-quotes-server)!
+
 ![screenshot](screenshot.png?raw=true "screenshot")
 
 # Install
